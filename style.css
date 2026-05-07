@@ -85,7 +85,10 @@ p {
 
 hr {
     width: 700px;
+    color: orangered;
     background-color: orangered;
+    border: 1px solid orangered;
+    border-radius: 20px 
 }
 
 .status button {
